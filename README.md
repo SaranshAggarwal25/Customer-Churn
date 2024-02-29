@@ -16,7 +16,7 @@ This project focuses on predicting customer churn using various machine learning
 
 ### Bar-Plot for InternetService
 
-![InternetService Distribution](/screenshots/distribution_of_internet_service.png)
+![Distribution of Internet Service](/screenshots/distribution of internet service.png)
 
 - X-axis: Categories of Internet Service
 - Y-axis: Count of Categories
