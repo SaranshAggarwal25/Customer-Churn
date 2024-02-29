@@ -16,7 +16,7 @@ This project focuses on predicting customer churn using various machine learning
 
 ### Bar-Plot for InternetService
 
-![Distribution of Internet Service](/screenshots/distribution of internet service.png)
+![Distribution of Internet Service](screenshots/distribution%20of%20internet%20service.png)
 
 - X-axis: Categories of Internet Service
 - Y-axis: Count of Categories
@@ -25,7 +25,7 @@ This project focuses on predicting customer churn using various machine learning
 
 ### Histogram for Tenure
 
-![Tenure Distribution](screenshots/tenure_distribution.png)
+![Distribution of Tenure](screenshots/distribution%20of%20tenure.png)
 
 - Bins: 30
 - Color: Green
@@ -33,20 +33,16 @@ This project focuses on predicting customer churn using various machine learning
 
 ### Scatter-Plot for MonthlyCharges vs Tenure
 
-![MonthlyCharges vs Tenure](screenshots/monthlycharges_vs_tenure.png)
+![Tenure vs Monthly Charges](screenshots/tenure%20vs%20monthly%20charges.png)
 
 - X-axis: Tenure of customer
 - Y-axis: Monthly Charges of customer
 - Title: Tenure vs Monthly Charges
 - Color: Brown
 
-### Box-Plot for Contract vs Tenure
+<!-- Additional content for Data Visualization... -->
 
-![Contract vs Tenure](screenshots/contract_vs_tenure.png)
 
-- Y-axis: Tenure
-- X-axis: Contract
-- Title: Contract vs Tenure
 
 ## Linear Regression
 
